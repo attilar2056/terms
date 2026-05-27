@@ -1,0 +1,109 @@
+<!-- terms.html -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - StreamDock Discord Plugin</title>
+    <style>
+        body {
+            background: #0f1117;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+            line-height: 1.7;
+        }
+
+```
+    h1 {
+        color: #5865F2;
+    }
+
+    h2 {
+        margin-top: 30px;
+        color: #7289da;
+    }
+
+    .card {
+        background: #1a1d26;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    }
+
+    a {
+        color: #8ea1ff;
+    }
+</style>
+```
+
+</head>
+<body>
+
+<div class="card">
+    <h1>Terms of Service</h1>
+
+```
+<p><strong>Last updated:</strong> May 2026</p>
+
+<p>
+    By using the StreamDock Discord Plugin, you agree to these Terms of Service.
+</p>
+
+<h2>Use of the Plugin</h2>
+
+<p>
+    This plugin allows users to control and interact with Discord features through StreamDock integrations and shortcuts.
+</p>
+
+<p>You agree not to:</p>
+
+<ul>
+    <li>Use the plugin for illegal activities</li>
+    <li>Abuse Discord services or APIs</li>
+    <li>Attempt to modify, reverse engineer, or exploit the plugin</li>
+</ul>
+
+<h2>Disclaimer</h2>
+
+<p>
+    This plugin is provided "as is" without warranties of any kind.
+    We are not responsible for:
+</p>
+
+<ul>
+    <li>Data loss</li>
+    <li>Service interruptions</li>
+    <li>Third-party platform issues</li>
+    <li>Discord outages or API changes</li>
+</ul>
+
+<h2>Third-Party Services</h2>
+
+<p>
+    This plugin interacts with Discord and may rely on third-party services or APIs.
+    Discord is a trademark of Discord Inc.
+</p>
+
+<h2>Changes</h2>
+
+<p>
+    These terms may be updated at any time without prior notice.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+    For support or questions:<br>
+    gabilangames@gmail.com
+</p>
+```
+
+</div>
+
+</body>
+</html>
